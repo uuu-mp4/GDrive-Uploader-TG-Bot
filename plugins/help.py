@@ -53,4 +53,4 @@ def map(pos):
                 InlineKeyboardButton(text = '-->', callback_data = f"help+{pos+1}")
             ],
         ]
-    return button
+    return/button
