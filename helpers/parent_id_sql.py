@@ -38,7 +38,7 @@ def set_id(chat_id, parent_id):
 
 
 def del_id(chat_id):
-    rem = SESSION.query(ParentID).get(chat_id)
+    rem = SESSION.query().get(chat_id)
     if rem:
         SESSION.delete(rem)
         SESSION.commit()
