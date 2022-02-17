@@ -48,6 +48,7 @@ async def upload_file(creds, file_path, filesize, parent_id, message):
           return 'LimitExceeded'
         else:
           await message.reply_text(f"{err.replace('<', '').replace('>', '')}")
-    except Exception as e:
-      await message.reply_text(f'**ERROR:** ```{e}```', quote=True)
+    except E
+xception as e:
+      await message.reply_text('**ERROR:** ```{e}```', quote=True)
       return 'error'
