@@ -118,7 +118,7 @@ async def _copy(client, message):
       if err.resp.get('content-type', '').startswith('application/json'):
             reason = json.loads(err.content).get('error').get('errors')[0].get('reason')
             if 'notFound' in reason:
-               await sent_message.edit('❗**ERROR: FILE NOT FOUND**\n__Make sure the file exists and accessible by the account you authenticated.__')
+               await sent_message.edit(**ERROR: FILE NOT FOUND**\n__Make sure the file exists and accessible by the account you authenticated.__')
             else:
                await sent_message.edit(f"**ERROR:** ```{str(err).replace('>', '').replace('<', '')}```")
     except Exception as e:
