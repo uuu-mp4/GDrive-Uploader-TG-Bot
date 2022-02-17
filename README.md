@@ -19,7 +19,7 @@
 ### Installation
 - Clone this git repository.
 ```sh 
-git clone https://github.com/cdfxscrq/gdrive-uploader-telegram-bot
+git clone https://github.com/Yesawini12345gdrive-uploader-telegram-bot
 ```
 - Change Directory
 ```sh 
@@ -52,5 +52,5 @@ python3 bot.py
 - [Shivam Jha](https://github.com/lzzy12) for [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 ## :clap:  Supporters
-[![Stargazers repo roster for @cdfxscrq/gdrive-uploader-telegram-bot](https://reporoster.com/stars/cdfxscrq/gdrive-uploader-telegram-bot)](https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/stargazers)
-[![Forkers repo roster for @cdfxscrq/gdrive-uploader-telegram-bot](https://reporoster.com/forks/cdfxscrq/gdrive-uploader-telegram-bot)](https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/network/members)
+[![Stargazers repo roster for @Yesawini12345gdrive-uploader-telegram-bot](https://reporoster.com/stars/Yesawini12345/gdrive-uploader-telegram-bot)](https://github.com/Yesawini12345/gdrive-uploader-telegram-bot/stargazers)
+[![Forkers repo roster for @Yesawini12345/gdrive-uploader-telegram-bot](https://reporoster.com/forks/Yesawini12345/gdrive-uploader-telegram-bot)](https://github.com/Yesawini12345/gdrive-uploader-telegram-bot/network/members)
